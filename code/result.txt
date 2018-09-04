@@ -1,0 +1,22 @@
+# This is result=         0
+# 0110000100110110
+# This is result=         1
+# 0110000100111000
+# This is result=         2
+# 0110000101010100
+# This is result=         3
+# 0110000001011110
+# This is result=         4
+# 0110000001101110
+# This is result=         5
+# 0110000110000010
+# This is result=         6
+# 0110000110010010
+# This is result=         7
+# 0110000110010100
+# This is result=         8
+# 0110000110011010
+# This is result=         9
+# 0110000110100100
+# This is result=        10
+# 0110000110111110
